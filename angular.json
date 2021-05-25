@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "profile-card-component"
+    }
+  },
+  "defaultProject": "profile-card-component",
+  "cli": {
+    "analytics": "05013b45-aa4f-40bd-9dae-9771046507a4"
+  }
 }
